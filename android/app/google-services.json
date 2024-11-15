@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788606077505",
+    "project_id": "talebecetveli-ce2d1",
+    "storage_bucket": "talebecetveli-ce2d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788606077505:android:4507fb4d5b48b3e43c14c0",
+        "android_client_info": {
+          "package_name": "com.talebe_cetveli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788606077505-f8fs4hbjo73unjlht6kcbipmt5mfrq2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0G6Ubi2Zd4W5sbp3_XMvPJo_TKoPLYf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788606077505-f8fs4hbjo73unjlht6kcbipmt5mfrq2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

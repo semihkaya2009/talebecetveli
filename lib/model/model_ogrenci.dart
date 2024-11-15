@@ -1,0 +1,29 @@
+class ModelOgrenci {
+  String ogrenciID   = '';
+  String ogrenciAdi = '';
+  String ogrenciTelNo = '';
+  double kuranOkumaOrtalama = 0;
+  List<double> kuranOkuma = [];
+  double? kuranEzberOrtalama = 0;
+  List<double> kuranEzber = [];
+  double risaleOkumaOrtalama = 0;
+  List<double> risaleOkuma = [];
+  double risaleEzberOrtalama = 0;
+  List<double> risaleEzber = [];
+  double osmanlicaYaziOrtalama = 0;
+  List<double> osmanlicaYazi = [];
+  double cevsenOkumaOrtalama = 0;
+  List<double> cevsenOkuma = [];
+  double kitapOkumaOrtalama = 0;
+  List<double> kitapOkuma = [];
+  int sabahNamaziOrtalama = 0;
+  int sabahNamaziTesbihatOrtalama = 0;
+  int ogleNamaziOrtalama = 0;
+  int ogleNamaziTesbihatOrtalama = 0;
+  int ikindiNamaziOrtalama = 0;
+  int ikindiNamaziTesbihatOrtalama = 0;
+  int aksamNamaziOrtalama = 0;
+  int aksamNamaziTesbihatOrtalama = 0;
+  int yatsiNamaziOrtalama= 0;
+  int yatsiNamaziTesbihatOrtalama = 0;
+}
