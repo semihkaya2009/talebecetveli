@@ -1,16 +1,19 @@
 # talebecetveli
 
-A new Flutter project.
+Talebe Cetveli
 
-## Getting Started
+Öğretmenlerin, öğrencilerinin manevi durumlarını takip etmesi için geliştirilmiştir.
 
-This project is a starting point for a Flutter application.
+Öğretmenlerin, öğrencilerinin günlük
+- Kaç Sayfa Kuran Okuduğunu
+- Kaç Satır Kuran Ezberlediği
+- Kaç Sayfa Risale Okuduğunu
+- Kaç Satır Risale Ezberlediğini
+- Kaç Satır Osmanlıca Yazı yazdığını
+- Kaç Satır Cevsen Okuduğunu
+- Kaç Sayfa Kitap Okuduğunu ve hangi namazlarını kıldığını takip ederek öğrencilerinin manevi durumlarını daha kolay bir şekilde kontrol edebildikleri basit bir uygulama...
 
-A few resources to get you started if this is your first Flutter project:
+Uygulamamız tamamen ücretsiz ve reklamsızdır.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--İLETİŞİM--
+Mail: talebecetveli@gmail.com
